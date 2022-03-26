@@ -2,4 +2,5 @@ This is git Turorial
 git and github are different 
 git is local repository
 github is remote repository where we save our local repository 
-this file is for ml2 repository practice
+this file is for practice repository
+
